@@ -1,0 +1,45 @@
+Date : 2020-11-29 11:09:00
+Directory : c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script
+Total : 21 files,  608 codes, 5 comments, 58 blanks, all 671 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         21 |        608 |          5 |         58 |        671 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |         21 |        608 |          5 |         58 |        671 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                               | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\Animate.cs              | C#       |         21 |          1 |          2 |         24 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\AudioManager.cs         | C#       |         32 |          0 |          2 |         34 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\BulletController.cs     | C#       |         38 |          1 |          2 |         41 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\GameController.cs       | C#       |        103 |          1 |          6 |        110 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\HPController.cs         | C#       |         25 |          0 |          3 |         28 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\MainMenuController.cs   | C#       |         20 |          0 |          2 |         22 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\MapSelect.cs            | C#       |         15 |          0 |          2 |         17 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\Object2Controller.cs    | C#       |         22 |          0 |          3 |         25 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\Object4Controller.cs    | C#       |         30 |          0 |          4 |         34 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ObjectCard.cs           | C#       |         33 |          0 |          4 |         37 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ObjectContainer.cs      | C#       |         25 |          0 |          2 |         27 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ObjectDragging.cs       | C#       |          7 |          0 |          3 |         10 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\OptionMenuController.cs | C#       |         11 |          0 |          2 |         13 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ShovelDestroy.cs        | C#       |         14 |          0 |          2 |         16 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\Sound.cs                | C#       |          9 |          0 |          2 |         11 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\SpawnPoint.cs           | C#       |          7 |          0 |          2 |          9 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\SpeedController.cs      | C#       |         44 |          0 |          4 |         48 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\StageSelect.cs          | C#       |         23 |          0 |          2 |         25 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\Zombie.cs               | C#       |         18 |          0 |          2 |         20 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ZombieController.cs     | C#       |         68 |          2 |          4 |         74 |
+| c:\Users\Administrator\Downloads\Ver6\Ver4\Final\Assets\Script\ZombiesSpawner.cs       | C#       |         43 |          0 |          3 |         46 |
+| Total                                                                                  |          |        608 |          5 |         58 |        671 |
++----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

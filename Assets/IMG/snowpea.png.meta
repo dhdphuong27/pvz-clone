@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 30893505d30969b4a8f39e78ad46a049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7261282327186003411
+    second: snowpea_0
+  - first:
+      213: 4990986547060762262
+    second: snowpea_1
+  - first:
+      213: -385261313824746980
+    second: snowpea_2
+  - first:
+      213: 3383991224628865115
+    second: snowpea_3
+  - first:
+      213: -2657936301925797030
+    second: snowpea_4
+  - first:
+      213: -8809457076267634342
+    second: snowpea_5
+  - first:
+      213: -4646723123541674820
+    second: snowpea_6
+  - first:
+      213: 1154028589530838083
+    second: snowpea_7
+  - first:
+      213: 2098568270436234032
+    second: snowpea_8
+  - first:
+      213: 2095497265957404625
+    second: snowpea_9
+  - first:
+      213: -7041327973016102549
+    second: snowpea_10
+  - first:
+      213: 4041780838740337325
+    second: snowpea_11
+  - first:
+      213: -7287790444171140757
+    second: snowpea_12
+  - first:
+      213: 6207242779653237079
+    second: snowpea_13
+  - first:
+      213: 5029657905838963463
+    second: snowpea_14
+  - first:
+      213: -474778725694460186
+    second: snowpea_15
+  - first:
+      213: 5089962439937151319
+    second: snowpea_16
+  - first:
+      213: -8765893067213374936
+    second: snowpea_17
+  - first:
+      213: 6459268869600291510
+    second: snowpea_18
+  - first:
+      213: -9214313933436288783
+    second: snowpea_19
+  - first:
+      213: 4971732283213044495
+    second: snowpea_20
+  - first:
+      213: 8529599784729380173
+    second: snowpea_21
+  - first:
+      213: 7988112938630626052
+    second: snowpea_22
+  - first:
+      213: -3062275733359096520
+    second: snowpea_23
+  - first:
+      213: 3922273371622025962
+    second: snowpea_24
+  - first:
+      213: 3873401788263281567
+    second: snowpea_25
+  - first:
+      213: -1292132526736298556
+    second: snowpea_26
+  - first:
+      213: 6687784947079172075
+    second: snowpea_27
+  - first:
+      213: 3739373012357506050
+    second: snowpea_28
+  - first:
+      213: -2888702887494215535
+    second: snowpea_29
+  - first:
+      213: -7639870659890579313
+    second: snowpea_30
+  - first:
+      213: -803873848371850901
+    second: snowpea_31
+  - first:
+      213: -1185090068839855367
+    second: snowpea_32
+  - first:
+      213: -6033909416981013991
+    second: snowpea_33
+  - first:
+      213: 7166285206671856347
+    second: snowpea_34
+  - first:
+      213: 227877285863002087
+    second: snowpea_35
+  - first:
+      213: 5709839398185798366
+    second: snowpea_36
+  - first:
+      213: 1240010617110978433
+    second: snowpea_37
+  - first:
+      213: 6751757375096513803
+    second: snowpea_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowpea_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 224
+        width: 614
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa142023eba3b90800000000000000
+      internalID: -7261282327186003411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 324
+        width: 254
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6966f4832db834540800000000000000
+      internalID: 4990986547060762262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 436
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1296c350e647aaf0800000000000000
+      internalID: -385261313824746980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 391
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ea03f61a56fe20800000000000000
+      internalID: 3383991224628865115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 414
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f818040d1d1bd0800000000000000
+      internalID: -2657936301925797030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_5
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 343
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513401b6758eb580800000000000000
+      internalID: -8809457076267634342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_6
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 373
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb474b340f5838fb0800000000000000
+      internalID: -4646723123541674820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34471ab43eee30010800000000000000
+      internalID: 1154028589530838083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 332
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f14829bc9f1d10800000000000000
+      internalID: 2098568270436234032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 148
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df713539a3b41d10800000000000000
+      internalID: 2095497265957404625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 235
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699a5dd38d284e90800000000000000
+      internalID: -7041327973016102549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 83
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22911324a471830800000000000000
+      internalID: 4041780838740337325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 168
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6161b114319cda90800000000000000
+      internalID: -7287790444171140757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 167
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e6d3bb6e842650800000000000000
+      internalID: 6207242779653237079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 181
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3443973fecc540800000000000000
+      internalID: 5029657905838963463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 93
+        width: 111
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea114b34f3969f0800000000000000
+      internalID: -474778725694460186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 113
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d8801fdd23a640800000000000000
+      internalID: 5089962439937151319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 129
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82affa5f2ba495680800000000000000
+      internalID: -8765893067213374936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 118
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa34170dee3a950800000000000000
+      internalID: 6459268869600291510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_19
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 67
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0099c0c4e202080800000000000000
+      internalID: -9214313933436288783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 72
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b51439b242ff440800000000000000
+      internalID: 4971732283213044495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_21
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 97
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d450b0dffc93f5670800000000000000
+      internalID: 8529599784729380173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_22
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 135
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb7c4156a7bde60800000000000000
+      internalID: 7988112938630626052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 35
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d05d4f17c9085d0800000000000000
+      internalID: -3062275733359096520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 58
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2183b9d6be6630800000000000000
+      internalID: 3922273371622025962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 103
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93bbcd776611c530800000000000000
+      internalID: 3873401788263281567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 28
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda72d105c611ee0800000000000000
+      internalID: -1292132526736298556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befcbd8d9f8cfcc50800000000000000
+      internalID: 6687784947079172075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204604451fbe4e330800000000000000
+      internalID: 3739373012357506050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1981341670449e7d0800000000000000
+      internalID: -2888702887494215535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 47
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88fa43dc1ab9f590800000000000000
+      internalID: -7639870659890579313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 50
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d1977ef018d4f0800000000000000
+      internalID: -803873848371850901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa05fb7cd6bd8fe0800000000000000
+      internalID: -1185090068839855367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 53
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a56f1ba5f334ca0800000000000000
+      internalID: -6033909416981013991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd210d64d62c37360800000000000000
+      internalID: 7166285206671856347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 54
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8e342f25992300800000000000000
+      internalID: 227877285863002087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_36
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda056d3eac6d3f40800000000000000
+      internalID: 5709839398185798366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_37
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fdc9e1617653110800000000000000
+      internalID: 1240010617110978433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowpea_38
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 24
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0560407f8f03bd50800000000000000
+      internalID: 6751757375096513803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snowpea_0: -7261282327186003411
+      snowpea_1: 4990986547060762262
+      snowpea_10: -7041327973016102549
+      snowpea_11: 4041780838740337325
+      snowpea_12: -7287790444171140757
+      snowpea_13: 6207242779653237079
+      snowpea_14: 5029657905838963463
+      snowpea_15: -474778725694460186
+      snowpea_16: 5089962439937151319
+      snowpea_17: -8765893067213374936
+      snowpea_18: 6459268869600291510
+      snowpea_19: -9214313933436288783
+      snowpea_2: -385261313824746980
+      snowpea_20: 4971732283213044495
+      snowpea_21: 8529599784729380173
+      snowpea_22: 7988112938630626052
+      snowpea_23: -3062275733359096520
+      snowpea_24: 3922273371622025962
+      snowpea_25: 3873401788263281567
+      snowpea_26: -1292132526736298556
+      snowpea_27: 6687784947079172075
+      snowpea_28: 3739373012357506050
+      snowpea_29: -2888702887494215535
+      snowpea_3: 3383991224628865115
+      snowpea_30: -7639870659890579313
+      snowpea_31: -803873848371850901
+      snowpea_32: -1185090068839855367
+      snowpea_33: -6033909416981013991
+      snowpea_34: 7166285206671856347
+      snowpea_35: 227877285863002087
+      snowpea_36: 5709839398185798366
+      snowpea_37: 1240010617110978433
+      snowpea_38: 6751757375096513803
+      snowpea_4: -2657936301925797030
+      snowpea_5: -8809457076267634342
+      snowpea_6: -4646723123541674820
+      snowpea_7: 1154028589530838083
+      snowpea_8: 2098568270436234032
+      snowpea_9: 2095497265957404625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
