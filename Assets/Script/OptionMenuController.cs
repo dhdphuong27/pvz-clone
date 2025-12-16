@@ -10,8 +10,11 @@ public class OptionMenuController : MonoBehaviour
     public InputField inputvol;
     public void Awake()
     {
+        if (!PlayerPrefs.HasKey("difficulty")) PlayerPrefs.SetInt("difficulty", 1);
+        if (!PlayerPrefs.HasKey("volume")) PlayerPrefs.SetInt("volume", 3);
+        PlayerPrefs.Save();
         GameObject.Find("InputDiff").GetComponent<InputField>().text = PlayerPrefs.GetInt("difficulty").ToString();
-        GameObject.Find("InputVol").GetComponent<InputField>().text = PlayerPrefs.GetInt("volume").ToString();   
+        GameObject.Find("InputVol").GetComponent<InputField>().text = PlayerPrefs.GetInt("volume").ToString();
     }
     public void Exit()
     {
@@ -29,10 +32,15 @@ public class OptionMenuController : MonoBehaviour
     }
     private void SubmitDiff(string arg0)
     {
-        PlayerPrefs.SetInt("difficulty", int.Parse(arg0));
+        int d = int.Parse(arg0);
+        PlayerPrefs.SetInt("difficulty", d);
+        PlayerPrefs.Save();
     }
     private void SubmitVol(string arg0)
     {
-        PlayerPrefs.SetInt("volume", int.Parse(arg0));
+        int v = int.Parse(arg0);
+        v = Mathf.Clamp(v, 0, 100);
+        PlayerPrefs.SetInt("volume", v);
+        PlayerPrefs.Save();
     }
 }

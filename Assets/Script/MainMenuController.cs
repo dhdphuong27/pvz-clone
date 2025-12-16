@@ -48,7 +48,7 @@ public class MainMenuController : MonoBehaviour
         }
         if (!PlayerPrefs.HasKey("volume"))
         {
-            PlayerPrefs.SetInt("volume", 5);
+            PlayerPrefs.SetInt("volume", 3);
         }
     }
     public void DeleteUser()

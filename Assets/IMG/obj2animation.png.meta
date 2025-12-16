@@ -260,12 +260,12 @@ TextureImporter:
       name: obj2animation_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 3256
-        width: 222
-        height: 222
+        x: 15
+        y: 3214
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,12 +282,12 @@ TextureImporter:
       name: obj2animation_1
       rect:
         serializedVersion: 2
-        x: 416
-        y: 3256
-        width: 221
-        height: 227
+        x: 372
+        y: 3214
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -304,12 +304,12 @@ TextureImporter:
       name: obj2animation_2
       rect:
         serializedVersion: 2
-        x: 776
-        y: 3256
-        width: 222
-        height: 232
+        x: 729
+        y: 3214
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -326,12 +326,12 @@ TextureImporter:
       name: obj2animation_3
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 3256
-        width: 222
-        height: 239
+        x: 1086
+        y: 3214
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -348,12 +348,12 @@ TextureImporter:
       name: obj2animation_4
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 3258
-        width: 221
-        height: 250
+        x: 1443
+        y: 3214
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -370,12 +370,12 @@ TextureImporter:
       name: obj2animation_5
       rect:
         serializedVersion: 2
-        x: 57
-        y: 2898
-        width: 222
-        height: 251
+        x: 15
+        y: 2857
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -392,12 +392,12 @@ TextureImporter:
       name: obj2animation_6
       rect:
         serializedVersion: 2
-        x: 418
-        y: 2898
-        width: 223
-        height: 251
+        x: 372
+        y: 2857
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -414,12 +414,12 @@ TextureImporter:
       name: obj2animation_7
       rect:
         serializedVersion: 2
-        x: 778
-        y: 2900
-        width: 223
-        height: 251
+        x: 729
+        y: 2857
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -436,12 +436,12 @@ TextureImporter:
       name: obj2animation_8
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 2900
-        width: 221
-        height: 253
+        x: 1086
+        y: 2857
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: obj2animation_9
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 2900
-        width: 220
-        height: 254
+        x: 1443
+        y: 2857
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -480,12 +480,12 @@ TextureImporter:
       name: obj2animation_10
       rect:
         serializedVersion: 2
-        x: 61
-        y: 2541
-        width: 223
-        height: 255
+        x: 15
+        y: 2500
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -502,12 +502,12 @@ TextureImporter:
       name: obj2animation_11
       rect:
         serializedVersion: 2
-        x: 421
-        y: 2541
-        width: 223
-        height: 255
+        x: 372
+        y: 2500
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -524,12 +524,12 @@ TextureImporter:
       name: obj2animation_12
       rect:
         serializedVersion: 2
-        x: 783
-        y: 2539
-        width: 222
-        height: 255
+        x: 729
+        y: 2500
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -546,12 +546,12 @@ TextureImporter:
       name: obj2animation_13
       rect:
         serializedVersion: 2
-        x: 1143
-        y: 2539
-        width: 224
-        height: 255
+        x: 1086
+        y: 2500
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -568,12 +568,12 @@ TextureImporter:
       name: obj2animation_14
       rect:
         serializedVersion: 2
-        x: 1507
-        y: 2537
-        width: 224
-        height: 257
+        x: 1443
+        y: 2500
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: obj2animation_15
       rect:
         serializedVersion: 2
-        x: 68
-        y: 2177
-        width: 223
-        height: 255
+        x: 15
+        y: 2143
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -612,12 +612,12 @@ TextureImporter:
       name: obj2animation_16
       rect:
         serializedVersion: 2
-        x: 428
-        y: 2177
-        width: 223
-        height: 253
+        x: 372
+        y: 2143
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -634,12 +634,12 @@ TextureImporter:
       name: obj2animation_17
       rect:
         serializedVersion: 2
-        x: 792
-        y: 2177
-        width: 223
-        height: 251
+        x: 729
+        y: 2143
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -656,12 +656,12 @@ TextureImporter:
       name: obj2animation_18
       rect:
         serializedVersion: 2
-        x: 1156
-        y: 2175
-        width: 223
-        height: 250
+        x: 1086
+        y: 2143
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -678,12 +678,12 @@ TextureImporter:
       name: obj2animation_19
       rect:
         serializedVersion: 2
-        x: 1516
-        y: 2175
-        width: 223
-        height: 248
+        x: 1443
+        y: 2143
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -700,12 +700,12 @@ TextureImporter:
       name: obj2animation_20
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1815
-        width: 223
-        height: 244
+        x: 15
+        y: 1786
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -722,12 +722,12 @@ TextureImporter:
       name: obj2animation_21
       rect:
         serializedVersion: 2
-        x: 440
-        y: 1815
-        width: 224
-        height: 241
+        x: 372
+        y: 1786
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -744,12 +744,12 @@ TextureImporter:
       name: obj2animation_22
       rect:
         serializedVersion: 2
-        x: 804
-        y: 1813
-        width: 223
-        height: 236
+        x: 729
+        y: 1786
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -766,12 +766,12 @@ TextureImporter:
       name: obj2animation_23
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 1813
-        width: 225
-        height: 234
+        x: 1086
+        y: 1786
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -788,12 +788,12 @@ TextureImporter:
       name: obj2animation_24
       rect:
         serializedVersion: 2
-        x: 1523
-        y: 1814
-        width: 225
-        height: 231
+        x: 1443
+        y: 1786
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -810,12 +810,12 @@ TextureImporter:
       name: obj2animation_25
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1455
-        width: 224
-        height: 232
+        x: 15
+        y: 1429
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -832,12 +832,12 @@ TextureImporter:
       name: obj2animation_26
       rect:
         serializedVersion: 2
-        x: 439
-        y: 1455
-        width: 223
-        height: 239
+        x: 372
+        y: 1429
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -854,12 +854,12 @@ TextureImporter:
       name: obj2animation_27
       rect:
         serializedVersion: 2
-        x: 797
-        y: 1455
-        width: 223
-        height: 240
+        x: 729
+        y: 1429
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -876,12 +876,12 @@ TextureImporter:
       name: obj2animation_28
       rect:
         serializedVersion: 2
-        x: 1156
-        y: 1456
-        width: 223
-        height: 243
+        x: 1086
+        y: 1429
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -898,12 +898,12 @@ TextureImporter:
       name: obj2animation_29
       rect:
         serializedVersion: 2
-        x: 1513
-        y: 1456
-        width: 221
-        height: 250
+        x: 1443
+        y: 1429
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -920,12 +920,12 @@ TextureImporter:
       name: obj2animation_30
       rect:
         serializedVersion: 2
-        x: 71
-        y: 1097
-        width: 222
-        height: 250
+        x: 15
+        y: 1072
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -942,12 +942,12 @@ TextureImporter:
       name: obj2animation_31
       rect:
         serializedVersion: 2
-        x: 428
-        y: 1098
-        width: 223
-        height: 251
+        x: 372
+        y: 1072
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -964,12 +964,12 @@ TextureImporter:
       name: obj2animation_32
       rect:
         serializedVersion: 2
-        x: 788
-        y: 1098
-        width: 220
-        height: 253
+        x: 729
+        y: 1072
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -986,12 +986,12 @@ TextureImporter:
       name: obj2animation_33
       rect:
         serializedVersion: 2
-        x: 1147
-        y: 1098
-        width: 221
-        height: 255
+        x: 1086
+        y: 1072
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1008,12 +1008,12 @@ TextureImporter:
       name: obj2animation_34
       rect:
         serializedVersion: 2
-        x: 1507
-        y: 1098
-        width: 220
-        height: 255
+        x: 1443
+        y: 1072
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1030,12 +1030,12 @@ TextureImporter:
       name: obj2animation_35
       rect:
         serializedVersion: 2
-        x: 64
-        y: 739
-        width: 220
-        height: 257
+        x: 15
+        y: 715
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1052,12 +1052,12 @@ TextureImporter:
       name: obj2animation_36
       rect:
         serializedVersion: 2
-        x: 423
-        y: 739
-        width: 219
-        height: 257
+        x: 372
+        y: 715
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1074,12 +1074,12 @@ TextureImporter:
       name: obj2animation_37
       rect:
         serializedVersion: 2
-        x: 781
-        y: 739
-        width: 220
-        height: 255
+        x: 729
+        y: 715
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1096,12 +1096,12 @@ TextureImporter:
       name: obj2animation_38
       rect:
         serializedVersion: 2
-        x: 1142
-        y: 739
-        width: 219
-        height: 255
+        x: 1086
+        y: 715
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1118,12 +1118,12 @@ TextureImporter:
       name: obj2animation_39
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 739
-        width: 220
-        height: 255
+        x: 1443
+        y: 715
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1140,12 +1140,12 @@ TextureImporter:
       name: obj2animation_40
       rect:
         serializedVersion: 2
-        x: 59
-        y: 379
-        width: 221
-        height: 253
+        x: 15
+        y: 358
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1162,12 +1162,12 @@ TextureImporter:
       name: obj2animation_41
       rect:
         serializedVersion: 2
-        x: 418
-        y: 377
-        width: 221
-        height: 253
+        x: 372
+        y: 358
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1184,12 +1184,12 @@ TextureImporter:
       name: obj2animation_42
       rect:
         serializedVersion: 2
-        x: 778
-        y: 377
-        width: 220
-        height: 250
+        x: 729
+        y: 358
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1206,12 +1206,12 @@ TextureImporter:
       name: obj2animation_43
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 377
-        width: 222
-        height: 243
+        x: 1086
+        y: 358
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1228,12 +1228,12 @@ TextureImporter:
       name: obj2animation_44
       rect:
         serializedVersion: 2
-        x: 1495
-        y: 377
-        width: 222
-        height: 237
+        x: 1443
+        y: 358
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1250,12 +1250,12 @@ TextureImporter:
       name: obj2animation_45
       rect:
         serializedVersion: 2
-        x: 55
-        y: 17
-        width: 222
-        height: 232
+        x: 15
+        y: 1
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1272,12 +1272,12 @@ TextureImporter:
       name: obj2animation_46
       rect:
         serializedVersion: 2
-        x: 416
-        y: 17
-        width: 219
-        height: 228
+        x: 372
+        y: 1
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1294,12 +1294,12 @@ TextureImporter:
       name: obj2animation_47
       rect:
         serializedVersion: 2
-        x: 774
-        y: 17
-        width: 220
-        height: 225
+        x: 729
+        y: 1
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1316,12 +1316,12 @@ TextureImporter:
       name: obj2animation_48
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 17
-        width: 219
-        height: 219
+        x: 1086
+        y: 1
+        width: 357
+        height: 357
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1346,7 +1346,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":10.0},"gridSpriteSize":{"x":357.0,"y":357.0},"gridSpriteOffset":{"x":15.0,"y":29.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       obj2animation_0: -9183393313609157762
       obj2animation_1: -2173633195100540495
